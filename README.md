@@ -13,8 +13,8 @@ New versions of the script will be available as soon as we have had the time to 
 ## Authors
 
 * **Markus Österle**
-
 * **Andrez Gockel**
+* **Literally nobody else**
 
 ## Acknowledgments
 
